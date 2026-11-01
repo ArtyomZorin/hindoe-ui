@@ -47901,5 +47901,5 @@ stems = (
 );
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 20;
+versionMinor = 21;
 }
