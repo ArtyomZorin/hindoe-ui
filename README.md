@@ -5,7 +5,7 @@ with additional characters from [Selawik](https://github.com/microsoft/selawik),
 adjusted to closely match Segoe UI's horizontal proportions, spacing, and
 kerning while retaining Hind's character.
 
-Version **1.019** includes five upright weights, **399 glyphs**, and
+Version **1.020** includes five upright weights, **399 glyphs**, and
 **394 encoded characters**, covering Latin text, symbols, and numerals.
 
 ![Hindoe UI's five weights, compared with Segoe UI, plus Latin text, symbols, and numerals](assets/preview.png)
